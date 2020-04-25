@@ -3015,3 +3015,110 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.25-05.23.15:956][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2020.04.25-05.23.16:004][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
 [2020.04.25-05.23.18:755][606]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LBF4B9286C4F793E6610115BAF2E0D1B97.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.25-05.28.45:240][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.28.45:302][308]LogTexture: Display: Building textures: Texture2D_5 (G8, 128X128)
+[2020.04.25-05.28.56:191][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.29.11:474][617]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.29.14:480][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.29.14:490][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.25-05.29.14:526][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.04.25-05.29.17:461][787]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB7E997EA7424A17EE2D36CA8A38FB1846.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.25-05.31.33:654][491]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush503)
+[2020.04.25-05.31.36:943][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.32.21:047][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.32.25:745][134]Cmd: DELETE
+[2020.04.25-05.32.25:746][134]Cmd: ACTOR DELETE
+[2020.04.25-05.32.25:803][134]LogEditorActor: Deleted Actor: Brush
+[2020.04.25-05.32.25:845][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.04.25-05.32.26:364][134]LogEditorActor: Deleted 1 Actors (0.618 secs)
+[2020.04.25-05.32.27:656][237]Cmd: DELETE
+[2020.04.25-05.32.27:656][237]Cmd: ACTOR DELETE
+[2020.04.25-05.32.27:716][237]LogEditorActor: Deleted Actor: Brush
+[2020.04.25-05.32.27:747][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.25-05.32.28:265][237]LogEditorActor: Deleted 1 Actors (0.608 secs)
+[2020.04.25-05.33.07:587][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.33.21:125][642]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush507)
+[2020.04.25-05.33.21:711][689]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush507)
+[2020.04.25-05.33.22:720][771]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush507)
+[2020.04.25-05.33.30:491][325]LogGeometryMode: Warning: Unable to find BoxBrush506 Brush(s) in new BSP
+[2020.04.25-05.33.30:491][325]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.04.25-05.33.48:914][693]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.34.29:396][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.34.42:381][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.34.57:656][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.35.04:570][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.35.14:652][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.35.36:877][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.35.39:179][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.35.39:194][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.25-05.35.39:332][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.04.25-05.35.42:148][213]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LBA77C8639416E668BFC6D108D8591916B.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.25-05.35.52:523][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.35.55:308][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.35.55:318][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.25-05.35.55:360][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.25-05.35.58:088][108]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB0F7D63DD4F17912276AAA28FF83F8000.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.25-05.36.18:838][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.36.22:429][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.36.27:368][393]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.04.25-05.36.28:724][473]LogEditorViewport: Clicking on Actor (CTRL LMB): SkyLight (SkyLight)
+[2020.04.25-05.36.34:764][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.36.36:786][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.36.36:794][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.25-05.36.36:826][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.25-05.36.39:625][158]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB3F03EE444982BD448E0F48A4978849BD.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.25-05.36.46:953][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.36.56:482][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.36.58:025][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.36.59:453][ 98]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.04.25-05.37.03:298][296]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.37.10:600][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.38.00:900][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.38.28:959][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.39.21:651][ 87]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush515)
+[2020.04.25-05.39.21:684][ 87]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush515)
+[2020.04.25-05.39.40:892][497]Cmd: DELETE
+[2020.04.25-05.39.40:892][497]Cmd: ACTOR DELETE
+[2020.04.25-05.39.40:962][497]LogEditorActor: Deleted Actor: Brush
+[2020.04.25-05.39.41:041][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.04.25-05.39.41:539][497]LogEditorActor: Deleted 1 Actors (0.647 secs)
+[2020.04.25-05.39.53:999][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.40.08:794][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.40.14:841][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.40.25:513][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.40.43:124][928]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush517)
+[2020.04.25-05.40.43:166][928]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush517)
+[2020.04.25-05.40.44:961][ 89]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush517)
+[2020.04.25-05.40.53:917][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.40.58:925][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.41.24:293][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.41.32:238][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.41.58:275][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.42.10:277][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.42.18:665][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.42.27:385][343]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.25-05.42.36:119][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.25-05.42.43:922][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.42.43:935][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.25-05.42.44:050][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.25-05.42.46:877][152]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB2CE3DC514A03788AB4F241B849A53E84.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.25-05.43.32:013][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.43.37:042][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.44.00:681][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.44.13:311][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.44.55:378][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.45.20:906][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.46.02:295][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.46.06:274][394]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.46.19:109][450]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush525)
+[2020.04.25-05.46.19:134][450]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush525)
+[2020.04.25-05.46.27:430][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.47.08:699][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.47.48:354][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.48.08:028][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-05.48.41:284][682]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2020.04.25-05.48.42:085][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.48.43:546][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-05.48.43:558][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.25-05.48.43:737][828]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2020.04.25-05.48.47:085][828]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB2444E5374E469256F53F41967F12D53B.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
