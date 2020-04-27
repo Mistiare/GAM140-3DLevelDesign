@@ -2626,3 +2626,629 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.27-18.18.20:461][658]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB1FFB493A497E81AD20674683F4273BF2.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
 [2020.04.27-18.18.20:498][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB_BuiltData" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset" SILENT=true
 [2020.04.27-18.18.20:997][658]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_BuiltDataC34166F04ED0D32FC67501973AF12587.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset'
+[2020.04.27-22.33.48:722][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.34.02:408][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.34.08:141][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.34.08:931][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.34.16:059][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.34.29:610][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.35.08:915][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.04.27-22.35.08:919][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.27-22.35.12:334][845]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_Auto71F85DD024A06316C97BECDBC8A372F80.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto7.umap'
+[2020.04.27-22.35.12:344][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DS_LB' took 3.456
+[2020.04.27-22.35.12:344][845]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.456
+[2020.04.27-22.36.08:883][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.36.16:102][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-22.36.16:244][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.36.17:475][ 35]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.04.27-22.36.22:376][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.36.50:266][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.37.03:279][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.37.12:863][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.37.23:331][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.37.34:167][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.37.34:206][616]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-22.37.34:215][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.37.34:215][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-22.37.34:215][616]PIE: New page: PIE session: DS_LB (28 Apr 2020 00:37:34)
+[2020.04.27-22.37.34:215][616]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DS_LB
+[2020.04.27-22.37.34:769][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.553396s)
+[2020.04.27-22.37.34:770][616]LogAIModule: Creating AISystem for world DS_LB
+[2020.04.27-22.37.34:770][616]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2020.04.27-22.37.34:770][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DS_LB.DS_LB to /Game/Levels/UEDPIE_0_DS_LB.DS_LB (0.554761s)
+[2020.04.27-22.37.34:798][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.04.27-22.37.34:944][616]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.27-22.37.35:047][616]LogInit: FAudioDevice initialized.
+[2020.04.27-22.37.35:078][616]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.27-22.37.35:095][616]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DS_LB.DS_LB up for play (max tick rate 0) at 2020.04.27-23.37.35
+[2020.04.27-22.37.35:096][616]LogWorld: Bringing up level for play took: 0.016073
+[2020.04.27-22.37.35:111][616]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DS_LB -0.026
+[2020.04.27-22.37.35:112][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.37.50:624][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.37.50:624][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-22.37.50:661][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-22.37.50:661][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.37.50:698][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-22.37.50:711][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.27-22.37.50:732][366]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.04.27-22.38.00:932][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.38.04:744][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.38.05:924][962]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.04.27-22.38.23:329][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.38.32:419][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.38.35:299][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.38.38:596][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.38.43:845][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.38.56:914][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.39.02:007][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.39.22:529][934]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.39.24:633][125]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.39.26:793][305]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight42)
+[2020.04.27-22.39.34:618][987]Cmd: TRANSACTION UNDO
+[2020.04.27-22.39.34:618][987]LogEditorTransaction: Undo Move Actors
+[2020.04.27-22.40.13:962][187]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush595)
+[2020.04.27-22.40.13:995][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.40.17:331][521]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight43)
+[2020.04.27-22.40.20:468][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.40.43:113][ 45]Cmd: TRANSACTION UNDO
+[2020.04.27-22.40.43:113][ 45]LogEditorTransaction: Undo Apply Material to Surface
+[2020.04.27-22.40.44:818][173]Cmd: TRANSACTION UNDO
+[2020.04.27-22.40.44:818][173]LogEditorTransaction: Undo Apply Material to Surface
+[2020.04.27-22.40.46:832][322]Cmd: TRANSACTION UNDO
+[2020.04.27-22.40.46:832][322]LogEditorTransaction: Undo Apply Material to Surface
+[2020.04.27-22.40.48:911][513]Cmd: TRANSACTION UNDO
+[2020.04.27-22.40.48:911][513]LogEditorTransaction: Undo Apply Material to Surface
+[2020.04.27-22.40.54:710][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.40.56:333][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.40.56:789][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.41.01:662][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.41.13:870][850]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight44)
+[2020.04.27-22.41.32:744][495]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.41.32:848][495]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.41.37:245][938]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight44)
+[2020.04.27-22.41.41:773][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.41.43:608][583]Cmd: TRANSACTION UNDO
+[2020.04.27-22.41.43:608][583]LogEditorTransaction: Undo Edit Attenuation Radius
+[2020.04.27-22.42.24:849][337]Cmd: TRANSACTION UNDO
+[2020.04.27-22.42.24:849][337]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-22.42.30:272][725]Cmd: TRANSACTION UNDO
+[2020.04.27-22.42.30:272][725]LogEditorTransaction: Undo Move Actors
+[2020.04.27-22.42.33:151][939]Cmd: TRANSACTION UNDO
+[2020.04.27-22.42.33:151][939]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-22.42.37:993][356]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight45)
+[2020.04.27-22.42.56:586][872]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight45)
+[2020.04.27-22.42.59:337][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.43.16:852][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.43.25:647][627]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.04.27-22.43.26:891][719]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2020.04.27-22.43.29:180][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.43.31:389][151]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.43.31:512][151]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.43.32:697][274]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2020.04.27-22.43.35:998][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.43.44:697][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.43.56:446][674]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-22.44.02:872][348]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2020.04.27-22.44.07:070][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.44.14:264][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.44.15:768][679]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.04.27-22.44.23:086][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.44.27:159][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.44.34:263][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.44.45:170][931]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.44.52:375][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.44.57:800][967]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-22.44.57:834][967]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.04.27-22.45.31:364][426]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.45.37:129][ 15]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush306)
+[2020.04.27-22.46.18:679][308]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2020.04.27-22.46.22:984][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.46.23:142][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.04.27-22.46.23:152][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.27-22.46.26:481][715]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_Auto82530666A4EE0CD85722D5D8E143646B7.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto8.umap'
+[2020.04.27-22.46.26:491][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DS_LB' took 3.487
+[2020.04.27-22.46.26:491][715]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.487
+[2020.04.27-22.46.30:847][173]Cmd: TRANSACTION UNDO
+[2020.04.27-22.46.30:847][173]LogEditorTransaction: Undo Move Actors
+[2020.04.27-22.46.35:596][608]Cmd: TRANSACTION UNDO
+[2020.04.27-22.46.35:596][608]LogEditorTransaction: Undo Move Actors
+[2020.04.27-22.46.41:018][162]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.46.42:057][280]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2020.04.27-22.46.47:974][841]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.46.48:862][939]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2020.04.27-22.47.28:578][722]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight45)
+[2020.04.27-22.48.04:541][463]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush598)
+[2020.04.27-22.48.07:143][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.48.11:695][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.48.16:247][581]Cmd: TRANSACTION UNDO
+[2020.04.27-22.48.16:247][581]LogEditorTransaction: Undo Edit Z
+[2020.04.27-22.48.19:231][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.48.42:641][954]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight46)
+[2020.04.27-22.48.42:667][954]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-22.48.48:451][560]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-22.48.48:984][616]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-22.48.51:032][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.49.07:967][690]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-22.49.22:553][220]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.49.24:996][468]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight46)
+[2020.04.27-22.49.28:537][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.49.32:051][173]Cmd: TRANSACTION UNDO
+[2020.04.27-22.49.32:051][173]LogEditorTransaction: Undo Move Actors
+[2020.04.27-22.50.04:304][595]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.50.09:742][ 21]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight47)
+[2020.04.27-22.50.22:739][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.50.25:778][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.50.27:529][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.50.30:950][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.50.45:820][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.50.48:306][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.51.01:626][264]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.27-22.51.11:508][ 89]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight46)
+[2020.04.27-22.51.26:297][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.51.56:839][672]Cmd: TRANSACTION UNDO
+[2020.04.27-22.51.56:839][672]LogEditorTransaction: Undo Rotate Actors
+[2020.04.27-22.51.58:509][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.52.08:247][310]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush597)
+[2020.04.27-22.52.09:127][381]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight45)
+[2020.04.27-22.52.09:159][381]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-22.52.10:383][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.52.19:492][248]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight48)
+[2020.04.27-22.52.20:335][329]Cmd: DELETE
+[2020.04.27-22.52.20:335][329]Cmd: ACTOR DELETE
+[2020.04.27-22.52.20:431][329]LogEditorActor: Deleted Actor: Brush
+[2020.04.27-22.52.20:432][329]LogEditorActor: Deleted Actor: PointLight
+[2020.04.27-22.52.20:541][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.04.27-22.52.21:361][329]LogEditorActor: Deleted 2 Actors (1.025 secs)
+[2020.04.27-22.52.28:985][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.52.29:052][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-22.52.29:061][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.52.29:061][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-22.52.29:061][ 49]PIE: New page: PIE session: DS_LB (28 Apr 2020 00:52:29)
+[2020.04.27-22.52.29:062][ 49]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DS_LB
+[2020.04.27-22.52.29:392][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.330475s)
+[2020.04.27-22.52.29:393][ 49]LogAIModule: Creating AISystem for world DS_LB
+[2020.04.27-22.52.29:393][ 49]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2020.04.27-22.52.29:393][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DS_LB.DS_LB to /Game/Levels/UEDPIE_0_DS_LB.DS_LB (0.331453s)
+[2020.04.27-22.52.29:420][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.27-22.52.29:568][ 49]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.27-22.52.29:668][ 49]LogInit: FAudioDevice initialized.
+[2020.04.27-22.52.29:703][ 49]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.27-22.52.29:721][ 49]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DS_LB.DS_LB up for play (max tick rate 0) at 2020.04.27-23.52.29
+[2020.04.27-22.52.29:722][ 49]LogWorld: Bringing up level for play took: 0.018784
+[2020.04.27-22.52.29:739][ 49]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DS_LB 0.603
+[2020.04.27-22.52.29:739][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.52.29:756][ 50]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058659 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2020.04.27-22.52.45:077][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.52.45:077][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-22.52.45:119][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-22.52.45:119][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.52.45:154][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-22.52.45:165][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.27-22.52.45:187][860]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.04.27-22.53.06:685][191]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight37)
+[2020.04.27-22.53.15:901][748]Cmd: TRANSACTION UNDO
+[2020.04.27-22.53.15:901][748]LogEditorTransaction: Undo Move Actors
+[2020.04.27-22.53.18:684][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.54.07:124][642]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight48)
+[2020.04.27-22.54.19:908][810]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight49)
+[2020.04.27-22.54.19:936][810]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-22.54.25:816][331]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight49)
+[2020.04.27-22.54.34:623][ 55]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight48)
+[2020.04.27-22.54.38:958][341]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight49)
+[2020.04.27-22.54.48:616][237]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight47)
+[2020.04.27-22.54.49:838][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.55.50:602][358]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight50)
+[2020.04.27-22.56.05:295][324]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight51)
+[2020.04.27-22.56.05:327][324]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-22.56.07:274][519]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.56.09:313][736]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight51)
+[2020.04.27-22.56.19:888][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.56.19:959][644]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-22.56.19:968][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.56.19:968][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-22.56.19:968][644]PIE: New page: PIE session: DS_LB (28 Apr 2020 00:56:19)
+[2020.04.27-22.56.19:968][644]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DS_LB
+[2020.04.27-22.56.20:293][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.325280s)
+[2020.04.27-22.56.20:294][644]LogAIModule: Creating AISystem for world DS_LB
+[2020.04.27-22.56.20:294][644]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2020.04.27-22.56.20:294][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DS_LB.DS_LB to /Game/Levels/UEDPIE_0_DS_LB.DS_LB (0.326151s)
+[2020.04.27-22.56.20:395][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.27-22.56.20:544][644]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.27-22.56.20:688][644]LogInit: FAudioDevice initialized.
+[2020.04.27-22.56.20:719][644]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.27-22.56.20:736][644]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DS_LB.DS_LB up for play (max tick rate 0) at 2020.04.27-23.56.20
+[2020.04.27-22.56.20:736][644]LogWorld: Bringing up level for play took: 0.016650
+[2020.04.27-22.56.20:752][644]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DS_LB 1.617
+[2020.04.27-22.56.20:753][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.56.36:813][518]Cmd: LevelEditor.ToggleImmersive
+[2020.04.27-22.56.36:988][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.57.49:515][115]Cmd: LevelEditor.ToggleImmersive
+[2020.04.27-22.57.49:749][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.57.53:518][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.57.53:518][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-22.57.53:574][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-22.57.53:574][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-22.57.53:609][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-22.57.53:624][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.27-22.57.53:639][568]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.04.27-22.58.38:073][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.58.38:112][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.04.27-22.58.38:114][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.27-22.58.41:596][677]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_Auto92803A53F4484843E8CA4268A29937449.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto9.umap'
+[2020.04.27-22.58.41:605][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DS_LB' took 3.519
+[2020.04.27-22.58.41:605][677]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.519
+[2020.04.27-22.58.48:385][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-22.58.48:392][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.27-22.58.48:424][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.27-22.58.51:822][478]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LBB15E7AE1439A2408B4291CB59B3A79AF.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.27-22.58.51:870][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB_BuiltData" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset" SILENT=true
+[2020.04.27-22.58.52:373][478]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_BuiltDataEC38EA8F466E0F11ADE69E93E91AE393.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset'
+[2020.04.27-22.59.27:463][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.59.44:017][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-22.59.46:774][331]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.04.27-22.59.52:334][717]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-22.59.57:563][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.00.09:442][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.00.17:516][741]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.00.19:179][904]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush11)
+[2020.04.27-23.00.19:218][904]LogEditorViewport: Clicking on Actor (double click): Brush (Cylinder Brush11)
+[2020.04.27-23.00.28:411][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.00.33:867][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.00.38:695][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.00.45:358][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.00.46:447][569]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.00.47:256][662]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2020.04.27-23.00.58:540][833]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2020.04.27-23.01.03:739][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.01.08:877][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.01.14:089][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.01.18:484][383]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.01.19:734][491]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2020.04.27-23.01.25:835][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.01.33:826][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.01.50:008][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.02.01:054][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.02.06:712][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.02.26:864][877]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.02.29:037][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.02.37:606][964]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.02.41:065][347]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.02.56:598][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.02.56:666][629]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-23.02.56:677][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.02.56:677][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-23.02.56:677][629]PIE: New page: PIE session: DS_LB (28 Apr 2020 01:02:56)
+[2020.04.27-23.02.56:678][629]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DS_LB
+[2020.04.27-23.02.57:004][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.327071s)
+[2020.04.27-23.02.57:004][629]LogAIModule: Creating AISystem for world DS_LB
+[2020.04.27-23.02.57:004][629]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2020.04.27-23.02.57:005][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DS_LB.DS_LB to /Game/Levels/UEDPIE_0_DS_LB.DS_LB (0.328102s)
+[2020.04.27-23.02.57:078][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.04.27-23.02.57:211][629]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.27-23.02.57:303][629]LogInit: FAudioDevice initialized.
+[2020.04.27-23.02.57:333][629]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.27-23.02.57:352][629]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DS_LB.DS_LB up for play (max tick rate 0) at 2020.04.28-00.02.57
+[2020.04.27-23.02.57:353][629]LogWorld: Bringing up level for play took: 0.019502
+[2020.04.27-23.02.57:368][629]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DS_LB 0.232
+[2020.04.27-23.02.57:375][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.03.26:501][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.03.26:501][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-23.03.26:544][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-23.03.26:544][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.03.26:579][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-23.03.26:589][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.27-23.03.26:608][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.04.27-23.03.30:317][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.03.34:870][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.03.47:954][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.04.01:994][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.04.36:871][156]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight51)
+[2020.04.27-23.04.43:183][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.05.07:159][ 84]Cmd: TRANSACTION UNDO
+[2020.04.27-23.05.07:159][ 84]LogEditorTransaction: Undo Move Actors
+[2020.04.27-23.05.12:889][561]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight52)
+[2020.04.27-23.06.00:545][297]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight52)
+[2020.04.27-23.06.08:719][204]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight52)
+[2020.04.27-23.06.11:609][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.06.16:082][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.06.42:157][172]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.06.43:351][280]Cmd: TRANSACTION UNDO
+[2020.04.27-23.06.43:351][280]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.06.56:119][ 56]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.06.57:107][126]Cmd: TRANSACTION UNDO
+[2020.04.27-23.06.57:107][126]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.06.58:344][180]Cmd: TRANSACTION UNDO
+[2020.04.27-23.06.58:344][180]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.06.59:922][247]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.07.00:725][301]Cmd: TRANSACTION UNDO
+[2020.04.27-23.07.00:725][301]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.07.01:841][347]Cmd: TRANSACTION UNDO
+[2020.04.27-23.07.01:841][347]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.07.16:350][354]Cmd: TRANSACTION UNDO
+[2020.04.27-23.07.16:350][354]LogEditorTransaction: Undo Rotate Actors
+[2020.04.27-23.07.17:812][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.07.24:780][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.07.44:089][825]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight54)
+[2020.04.27-23.07.49:420][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.08.06:000][780]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight53)
+[2020.04.27-23.08.17:470][796]Cmd: TRANSACTION UNDO
+[2020.04.27-23.08.17:470][796]LogEditorTransaction: Undo Move Actors
+[2020.04.27-23.08.31:251][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight53)
+[2020.04.27-23.08.35:786][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.08.50:278][720]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.08.51:025][795]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.08.51:398][837]Cmd: TRANSACTION UNDO
+[2020.04.27-23.08.51:398][837]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.08.57:124][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.08.59:902][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.09.21:065][766]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight53)
+[2020.04.27-23.09.30:101][540]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight52)
+[2020.04.27-23.09.44:588][766]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight55)
+[2020.04.27-23.09.58:872][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.10.03:621][366]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.10.04:614][483]Cmd: TRANSACTION UNDO
+[2020.04.27-23.10.04:614][483]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.10.06:245][623]Cmd: TRANSACTION UNDO
+[2020.04.27-23.10.06:245][623]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.10.22:125][839]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.10.23:073][941]Cmd: TRANSACTION UNDO
+[2020.04.27-23.10.23:073][941]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.10.24:068][  8]Cmd: TRANSACTION UNDO
+[2020.04.27-23.10.24:068][  8]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.10.26:910][149]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.10.40:611][463]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight56)
+[2020.04.27-23.10.57:620][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.11.09:679][389]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight56)
+[2020.04.27-23.11.14:034][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.11.17:633][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.11.39:479][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.11.39:489][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.27-23.11.39:650][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.27-23.11.43:269][283]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LBD839B2A74CB6F50617C5939B5D9E8F7A.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.27-23.11.43:316][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB_BuiltData" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset" SILENT=true
+[2020.04.27-23.11.43:848][283]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_BuiltDataC0E133384CD6953B97BC27A0DC011BAA.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset'
+[2020.04.27-23.11.56:614][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.12.00:331][769]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.12.01:534][908]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.12.01:575][908]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-23.12.05:687][316]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.12.07:050][464]Cmd: TRANSACTION UNDO
+[2020.04.27-23.12.07:050][464]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.12.08:241][554]Cmd: TRANSACTION UNDO
+[2020.04.27-23.12.08:242][554]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.12.12:435][910]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.12.23:290][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.12.32:154][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.12.58:347][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.13.02:366][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.13.11:253][331]Cmd: TRANSACTION UNDO
+[2020.04.27-23.13.11:253][331]LogEditorTransaction: Undo Edit Overall Color
+[2020.04.27-23.13.12:688][453]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.13.13:375][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.13.19:997][ 96]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.13.25:925][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.14.10:621][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.14.18:091][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.14.34:845][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.14.38:120][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.14.54:871][183]Cmd: TRANSACTION UNDO
+[2020.04.27-23.14.54:871][183]LogEditorTransaction: Undo Move Actors
+[2020.04.27-23.15.16:848][  5]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.15.17:689][ 82]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight53)
+[2020.04.27-23.15.17:726][ 82]LogEditorViewport: Clicking on Component (CTRL LMB): PointLightComponent (LightComponent0)
+[2020.04.27-23.15.28:296][172]Cmd: TRANSACTION UNDO
+[2020.04.27-23.15.28:296][172]LogEditorTransaction: Undo Move Components
+[2020.04.27-23.15.29:519][267]Cmd: TRANSACTION UNDO
+[2020.04.27-23.15.29:519][267]LogEditorTransaction: Undo Apply Material to Surface
+[2020.04.27-23.15.30:874][356]Cmd: TRANSACTION UNDO
+[2020.04.27-23.15.30:874][356]LogEditorTransaction: Undo Apply Material to Surface
+[2020.04.27-23.15.32:512][482]Cmd: TRANSACTION UNDO
+[2020.04.27-23.15.32:512][482]LogEditorTransaction: Undo Clicking on Components
+[2020.04.27-23.15.34:261][658]Cmd: TRANSACTION UNDO
+[2020.04.27-23.15.34:261][658]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-23.15.37:154][899]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight53)
+[2020.04.27-23.16.25:223][417]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.16.25:465][417]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.16.26:518][525]Cmd: TRANSACTION UNDO
+[2020.04.27-23.16.26:518][525]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.16.27:785][614]Cmd: TRANSACTION UNDO
+[2020.04.27-23.16.27:785][614]LogEditorTransaction: Undo Select Surface
+[2020.04.27-23.16.29:140][708]Cmd: TRANSACTION UNDO
+[2020.04.27-23.16.29:140][708]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.16.30:596][814]Cmd: TRANSACTION UNDO
+[2020.04.27-23.16.30:596][814]LogEditorTransaction: Undo Select Brush Surface
+[2020.04.27-23.16.33:592][ 36]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight59)
+[2020.04.27-23.16.36:107][261]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight59)
+[2020.04.27-23.17.56:160][572]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush614)
+[2020.04.27-23.18.03:107][ 65]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight60)
+[2020.04.27-23.18.08:865][537]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight58)
+[2020.04.27-23.18.11:753][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.18.32:879][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.18.36:041][285]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-23.18.36:065][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.18.36:066][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-23.18.36:066][285]PIE: New page: PIE session: DS_LB (28 Apr 2020 01:18:36)
+[2020.04.27-23.18.36:066][285]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DS_LB
+[2020.04.27-23.18.36:376][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.311342s)
+[2020.04.27-23.18.36:377][285]LogAIModule: Creating AISystem for world DS_LB
+[2020.04.27-23.18.36:377][285]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2020.04.27-23.18.36:377][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DS_LB.DS_LB to /Game/Levels/UEDPIE_0_DS_LB.DS_LB (0.312329s)
+[2020.04.27-23.18.36:468][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.04.27-23.18.36:609][285]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.27-23.18.36:705][285]LogInit: FAudioDevice initialized.
+[2020.04.27-23.18.36:705][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.18.36:740][285]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.27-23.18.36:765][285]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DS_LB.DS_LB up for play (max tick rate 0) at 2020.04.28-00.18.36
+[2020.04.27-23.18.36:766][285]LogWorld: Bringing up level for play took: 0.025063
+[2020.04.27-23.18.36:781][285]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DS_LB 1.645
+[2020.04.27-23.18.36:788][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.18.58:800][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.18.58:800][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-23.18.58:839][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-23.18.58:839][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.18.58:877][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-23.18.58:891][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.04.27-23.18.58:912][890]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.04.27-23.19.31:591][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.19.44:404][903]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.19.51:308][507]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight53)
+[2020.04.27-23.19.55:313][850]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight53)
+[2020.04.27-23.20.24:379][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.20.34:883][391]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush615)
+[2020.04.27-23.20.35:853][459]Cmd: TRANSACTION UNDO
+[2020.04.27-23.20.35:853][459]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.27-23.20.38:952][604]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight61)
+[2020.04.27-23.20.50:234][524]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.20.50:285][524]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-23.20.56:579][916]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-23.21.03:032][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.21.06:900][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.21.10:192][892]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.21.21:681][661]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.21.22:611][718]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.21.30:167][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.21.55:430][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.22.27:951][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.04.27-23.22.27:955][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.27-23.22.31:577][725]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_Auto0F4818FA84076A2B787192D9B65A3C52C.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/Autosaves/Game/Levels/DS_LB_Auto0.umap'
+[2020.04.27-23.22.31:586][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/DS_LB' took 3.699
+[2020.04.27-23.22.31:586][725]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.699
+[2020.04.27-23.23.32:096][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.23.32:104][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.27-23.23.32:133][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.04.27-23.23.35:565][131]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB450F520D412ECD12D6E574A21754D359.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.27-23.23.35:597][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB_BuiltData" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset" SILENT=true
+[2020.04.27-23.23.36:120][131]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_BuiltDataB40A47F84F9C4D0567CEE4ACEE84B779.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset'
+[2020.04.27-23.24.41:046][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.24.53:659][359]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2020.04.27-23.24.53:695][359]LogEditorViewport: Clicking on Component (LMB): SpotLightComponent (LightComponent0)
+[2020.04.27-23.24.54:146][400]LogEditorViewport: Clicking on Component (LMB): SpotLightComponent (LightComponent0)
+[2020.04.27-23.24.58:686][729]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush324)
+[2020.04.27-23.25.02:393][990]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2020.04.27-23.25.09:324][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.25.13:854][949]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.25.18:181][297]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.25.23:942][825]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight60)
+[2020.04.27-23.25.27:488][175]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight60)
+[2020.04.27-23.26.26:838][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.26.26:900][672]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.27-23.26.26:908][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.26.26:909][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.27-23.26.26:909][672]PIE: New page: PIE session: DS_LB (28 Apr 2020 01:26:26)
+[2020.04.27-23.26.26:909][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DS_LB
+[2020.04.27-23.26.27:234][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.326098s)
+[2020.04.27-23.26.27:235][672]LogAIModule: Creating AISystem for world DS_LB
+[2020.04.27-23.26.27:235][672]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2020.04.27-23.26.27:235][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DS_LB.DS_LB to /Game/Levels/UEDPIE_0_DS_LB.DS_LB (0.327125s)
+[2020.04.27-23.26.27:300][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.04.27-23.26.27:436][672]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.04.27-23.26.27:527][672]LogInit: FAudioDevice initialized.
+[2020.04.27-23.26.27:560][672]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.27-23.26.27:576][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DS_LB.DS_LB up for play (max tick rate 0) at 2020.04.28-00.26.27
+[2020.04.27-23.26.27:577][672]LogWorld: Bringing up level for play took: 0.016143
+[2020.04.27-23.26.27:592][672]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DS_LB 0.456
+[2020.04.27-23.26.27:592][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.26.41:964][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.26.41:965][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-23.26.42:002][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.27-23.26.42:002][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/DS_LB.DS_LB:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB' with GeneratedClass '/Game/Levels/DS_LB.DS_LB_C' with ClassGeneratedBy '/Game/Levels/DS_LB.DS_LB:PersistentLevel.DS_LB'
+[2020.04.27-23.26.42:058][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.27-23.26.42:072][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.27-23.26.42:096][357]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.04.27-23.26.43:508][523]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight63)
+[2020.04.27-23.26.58:871][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.27.16:764][911]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight63)
+[2020.04.27-23.27.40:359][533]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush617)
+[2020.04.27-23.27.40:407][533]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush617)
+[2020.04.27-23.27.40:447][533]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush617)
+[2020.04.27-23.27.40:922][569]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush617)
+[2020.04.27-23.27.47:283][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.27.49:324][456]Cmd: TRANSACTION UNDO
+[2020.04.27-23.27.49:324][456]LogEditorTransaction: Undo Create Actors
+[2020.04.27-23.27.49:381][456]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/DS_LB.DS_LB:PersistentLevel.ModelComponent_69294' invalid (66882 verts, 0 indices).
+[2020.04.27-23.27.49:382][456]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/DS_LB.DS_LB:PersistentLevel.ModelComponent_69294.BodySetup_0 when we are unable to.
+[2020.04.27-23.27.51:561][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.27.56:400][117]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight64)
+[2020.04.27-23.28.22:862][234]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight64)
+[2020.04.27-23.29.25:046][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.29.27:884][108]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.29.28:844][187]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight65)
+[2020.04.27-23.29.36:861][912]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight65)
+[2020.04.27-23.29.37:920][  5]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.29.38:279][ 43]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight65)
+[2020.04.27-23.29.38:604][ 69]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight65)
+[2020.04.27-23.29.46:552][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.29.53:553][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.30.07:217][508]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.30.14:103][176]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight52)
+[2020.04.27-23.30.14:127][176]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-23.30.14:135][176]LogEditorViewport: Clicking on Component (LMB): PointLightComponent (LightComponent0)
+[2020.04.27-23.30.16:523][374]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight53)
+[2020.04.27-23.30.19:399][618]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight54)
+[2020.04.27-23.30.21:964][844]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight55)
+[2020.04.27-23.30.24:935][112]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight56)
+[2020.04.27-23.30.27:754][309]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight61)
+[2020.04.27-23.30.30:795][526]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight59)
+[2020.04.27-23.30.32:792][710]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight59)
+[2020.04.27-23.30.34:835][846]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight60)
+[2020.04.27-23.30.35:762][924]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight60)
+[2020.04.27-23.30.38:952][205]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight63)
+[2020.04.27-23.30.41:950][463]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight64)
+[2020.04.27-23.30.43:118][560]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight65)
+[2020.04.27-23.30.45:017][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.30.48:572][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.30.48:624][ 68]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.27-23.30.54:135][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.30.54:144][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.27-23.30.54:217][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.27-23.30.57:634][504]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LBC17FBC1948E1B3BAF8F40B95B65BA263.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.27-23.30.57:669][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB_BuiltData" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset" SILENT=true
+[2020.04.27-23.30.58:177][504]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_BuiltData7045950B458C313E5E9324BE72AC830E.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset'
+[2020.04.27-23.44.08:103][609]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight10)
+[2020.04.27-23.44.10:152][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.45.11:925][845]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight12)
+[2020.04.27-23.45.11:966][845]LogEditorViewport: Clicking on Component (LMB): SpotLightComponent (LightComponent0)
+[2020.04.27-23.45.20:320][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.46.01:097][682]Cmd: TRANSACTION UNDO
+[2020.04.27-23.46.01:097][682]LogEditorTransaction: Undo Move Components
+[2020.04.27-23.46.04:367][976]Cmd: TRANSACTION UNDO
+[2020.04.27-23.46.04:367][976]LogEditorTransaction: Undo Move Components
+[2020.04.27-23.46.13:652][875]Cmd: TRANSACTION UNDO
+[2020.04.27-23.46.13:652][875]LogEditorTransaction: Undo Move Components
+[2020.04.27-23.46.17:198][218]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.21:773][556]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.22:606][615]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.23:204][655]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.26:707][911]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.27:697][997]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.29:009][110]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.46.31:606][266]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight57)
+[2020.04.27-23.46.33:056][372]Cmd: DELETE
+[2020.04.27-23.46.33:056][372]Cmd: ACTOR DELETE
+[2020.04.27-23.46.33:122][372]LogEditorActor: Deleted Actor: PointLight
+[2020.04.27-23.46.33:186][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.27-23.46.33:189][372]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2020.04.27-23.46.34:418][459]Cmd: TRANSACTION UNDO
+[2020.04.27-23.46.34:418][459]LogEditorTransaction: Undo Delete Actors
+[2020.04.27-23.46.41:979][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.46.49:668][748]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.49:855][753]LogEditorViewport: Clicking on Actor (context menu): PointLight (PointLight62)
+[2020.04.27-23.46.49:912][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.46.51:265][838]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight62)
+[2020.04.27-23.46.52:045][891]Cmd: DELETE
+[2020.04.27-23.46.52:045][891]Cmd: ACTOR DELETE
+[2020.04.27-23.46.52:095][891]LogEditorActor: Deleted Actor: PointLight
+[2020.04.27-23.46.52:119][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.04.27-23.46.52:119][891]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.04.27-23.46.53:921][ 34]Cmd: TRANSACTION UNDO
+[2020.04.27-23.46.53:921][ 34]LogEditorTransaction: Undo Delete Actors
+[2020.04.27-23.46.54:891][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-23.47.41:159][826]Cmd: EDCALLBACK SURFPROPS
+[2020.04.27-23.47.43:034][ 34]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight12)
+[2020.04.27-23.48.28:669][933]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight13)
+[2020.04.27-23.49.12:374][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-23.49.12:384][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.27-23.49.12:451][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.27-23.49.16:080][547]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LBA1B798A245D2CB07054A3D8CB196788C.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB.umap'
+[2020.04.27-23.49.16:137][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DS_LB_BuiltData" FILE="G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset" SILENT=true
+[2020.04.27-23.49.16:741][547]LogSavePackage: Moving 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Saved/DS_LB_BuiltData18943A98456E618EB668D3AB124A3705.tmp' to 'G:/GAM140-3DLevelDesign/RPG_LevelDesign/Content/Levels/DS_LB_BuiltData.uasset'
